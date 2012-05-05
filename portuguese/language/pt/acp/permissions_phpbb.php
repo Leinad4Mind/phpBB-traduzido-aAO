@@ -1,10 +1,11 @@
 <?php
 /**
+*
 * acp_permissions_phpbb (phpBB Permission Set) [Português]
 *
 * @package language
 * @version 1.0.3
-* @Traduzido por: http://phpbbportugal.com - segundo as normas do Acordo Ortográfico
+* @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 * 
@@ -68,7 +69,7 @@ if (empty($lang) || !is_array($lang))
 // Define categories and permission types
 $lang = array_merge($lang, array(
 	'permission_cat'	=> array( 
-		'actions'		=> 'Ações', 
+		'actions'		=> 'Acções', 
 		'content'		=> 'Conteúdo', 
 		'forums'		=> 'Fóruns', 
 		'misc'			=> 'Diversas', 
@@ -76,11 +77,11 @@ $lang = array_merge($lang, array(
 		'pm'			=> 'Mensagens Privadas', 
 		'polls'			=> 'Votações', 
 		'post'			=> 'Mensagem', 
-		'post_actions'	=> 'Ações de Mensagem', 
+		'post_actions'	=> 'Acções de Mensagem', 
 		'posting'		=> 'Enviando', 
 		'profile'		=> 'Perfil', 
 		'settings'		=> 'Configurações', 
-		'topic_actions'	=> 'Ações de Tópico', 
+		'topic_actions'	=> 'Acções de Tópico', 
 		'user_group'	=> 'Utilizadores &amp; Grupos',	
 	), 
 
@@ -108,7 +109,7 @@ $lang = array_merge($lang, array(
 	'acl_u_attach'		=> array('lang' => 'Pode anexar ficheiros', 'cat' => 'post'), 
 	'acl_u_download'	=> array('lang' => 'Pode transferir ficheiros', 'cat' => 'post'), 
 	'acl_u_savedrafts'	=> array('lang' => 'Pode guardar rascunhos', 'cat' => 'post'), 
-	'acl_u_chgcensors'	=> array('lang' => 'Pode desativar censura de palavras', 'cat' => 'post'), 
+	'acl_u_chgcensors'	=> array('lang' => 'Pode desactivar censura de palavras', 'cat' => 'post'), 
 	'acl_u_sig'			=> array('lang' => 'Pode usar assinatura', 'cat' => 'post'), 
 
 	'acl_u_sendpm'		=> array('lang' => 'Pode enviar Mensagens Privadas', 'cat' => 'pm'), 
@@ -192,7 +193,7 @@ $lang = array_merge($lang, array(
 
 // Admin Permissions 
 $lang = array_merge($lang, array( 
-	'acl_a_board'		=> array('lang' => 'Pode alterar Configuração Geral/verificar atualizações', 'cat' => 'settings'), 
+	'acl_a_board'		=> array('lang' => 'Pode alterar Configuração Geral/verificar actualizações', 'cat' => 'settings'), 
 	'acl_a_server'		=> array('lang' => 'Pode alterar configurações do servidor', 'cat' => 'settings'), 
 	'acl_a_jabber'		=> array('lang' => 'Pode alterar configurações Jabber', 'cat' => 'settings'), 
 	'acl_a_phpinfo'		=> array('lang' => 'Pode ver as configurações do php', 'cat' => 'settings'), 

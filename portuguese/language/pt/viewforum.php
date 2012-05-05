@@ -5,7 +5,7 @@
 *
 * @package language
 * @version 1.0.3
-* @Traduzido por: http://phpbbportugal.com - segundo as normas do Acordo Ortográfico
+* @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 * 
@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'					=> 'Tópicos ativos',
+	'ACTIVE_TOPICS'					=> 'Tópicos activos',
 	'ANNOUNCEMENTS'					=> 'Anúncios',
 
 	'FORUM_PERMISSIONS'				=> 'Permissões do Fórum',

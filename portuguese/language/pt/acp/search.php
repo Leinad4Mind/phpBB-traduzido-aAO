@@ -5,7 +5,7 @@
 *
 * @package language
 * @version 1.0.3
-* @Traduzido por: http://phpbbportugal.com - segundo as normas do Acordo Ortográfico
+* @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 * 
@@ -37,12 +37,12 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACP_SEARCH_INDEX_EXPLAIN'				=> 'Aqui pode gerir os índices de pesquisa do Fórum. Desde que normalmente utilize apenas um modo de pesquisa deve apagar todos os outros. Depois de alterar algumas das configurações da pesquisa (e.g. o número mínimo/máximo de caracteres) é preciso recriar o índice para que as novas configurações se tornem efetivas.',
-	'ACP_SEARCH_SETTINGS_EXPLAIN'			=> 'Aqui pode definir o modo de pesquisa que será utilizado para a execução deste Sistema. Pode configurar várias opções que podem influenciar em quantos processos estas ações serão solicitadas. Algumas destas configurações são as mesmas para todos os modos de pesquisa.',
+	'ACP_SEARCH_INDEX_EXPLAIN'				=> 'Aqui pode gerir os índices de pesquisa do Fórum. Desde que normalmente utilize apenas um modo de pesquisa deve apagar todos os outros. Depois de alterar algumas das configurações da pesquisa (e.g. o número mínimo/máximo de caracteres) é preciso recriar o índice para que as novas configurações se tornem efectivas.',
+	'ACP_SEARCH_SETTINGS_EXPLAIN'			=> 'Aqui pode definir o modo de pesquisa que será utilizado para a execução deste Sistema. Pode configurar várias opções que podem influenciar em quantos processos estas acções serão solicitadas. Algumas destas configurações são as mesmas para todos os modos de pesquisa.',
 
 	'COMMON_WORD_THRESHOLD'					=> 'Limite de palavras comuns',
-	'COMMON_WORD_THRESHOLD_EXPLAIN'			=> 'Palavras que estão incluídas em grande percentagem em todas as Mensagens, são consideradas comuns. As palavras comuns são ignoradas nas pesquisas. Escreva zero para desativar esta opção. Apenas terá efeito se possuir mais de 100 Mensagens.',
-	'CONFIRM_SEARCH_BACKEND'				=> 'Deseja alterar o modo de pesquisa? Depois de modificar o seu modo de pesquisa, deverá criar um novo índice para o novo modo selecionado. Se não planeia voltar ao seu modo de pesquisa antigo, poderá excluí-lo.',
+	'COMMON_WORD_THRESHOLD_EXPLAIN'			=> 'Palavras que estão incluídas em grande percentagem em todas as Mensagens, são consideradas comuns. As palavras comuns são ignoradas nas pesquisas. Escreva zero para desactivar esta opção. Apenas terá efeito se possuir mais de 100 Mensagens.',
+	'CONFIRM_SEARCH_BACKEND'				=> 'Deseja alterar o modo de pesquisa? Depois de modificar o seu modo de pesquisa, deverá criar um novo índice para o novo modo seleccionado. Se não planeia voltar ao seu modo de pesquisa antigo, poderá excluí-lo.',
 	'CONTINUE_DELETING_INDEX'				=> 'Continuar processo de exclusão de índice',
 	'CONTINUE_DELETING_INDEX_EXPLAIN'		=> 'Um processo de exclusão de índice foi iniciado. Para aceder à página de índice da pesquisa novamente deve completar o processo ou cancelá-lo.',
 	'CONTINUE_INDEXING'						=> 'Continuar com o processo de indexar anterior',
@@ -51,7 +51,7 @@ $lang = array_merge($lang, array(
 
 	'DELETE_INDEX'							=> 'Apagar Índice',
 	'DELETING_INDEX_IN_PROGRESS'			=> 'Excluindo o Índice em progresso',
-	'DELETING_INDEX_IN_PROGRESS_EXPLAIN'	=> 'A pesquisa está a apagar os Índices. Esta ação pode levar alguns minutos.',
+	'DELETING_INDEX_IN_PROGRESS_EXPLAIN'	=> 'A pesquisa está a apagar os Índices. Esta acção pode levar alguns minutos.',
 
 	'FULLTEXT_MYSQL_INCOMPATIBLE_VERSION'	=> 'O modo de pesquisa de textos completos do MySQL pode apenas ser utilizado com o MySQL4 ou superiores.',
 	'FULLTEXT_MYSQL_NOT_MYISAM'				=> 'Índices de textos completos do MySQL podem apenas ser utilizados com tabelas do MyISAM.',
@@ -68,7 +68,7 @@ $lang = array_merge($lang, array(
 
 	'INDEX_STATS'							=> 'Índice de Estatísticas',
 	'INDEXING_IN_PROGRESS'					=> 'Indexação em processo',
-	'INDEXING_IN_PROGRESS_EXPLAIN'			=> 'A pesquisa está a indexar todas as mensagens do Fórum. Esta ação pode levar de alguns minutos a várias horas, dependendo do tamanho do Fórum.',
+	'INDEXING_IN_PROGRESS_EXPLAIN'			=> 'A pesquisa está a indexar todas as mensagens do Fórum. Esta acção pode levar de alguns minutos a várias horas, dependendo do tamanho do Fórum.',
 
 	'LIMIT_SEARCH_LOAD'						=> 'Limite de carga do sistema da Página de Pesquisa',
 	'LIMIT_SEARCH_LOAD_EXPLAIN'				=> 'Se a carga do sistema de 1 minuto exceder este valor, a página de pesquisa irá desligar-se, 1.0 igual ~100% utilização de um processador. Isto apenas funciona em Servidores UNIX.',
@@ -95,16 +95,16 @@ $lang = array_merge($lang, array(
 	'SEARCH_STORE_RESULTS'					=> 'Tamanho da Cache de resultados da pesquisa',
 	'SEARCH_STORE_RESULTS_EXPLAIN'			=> 'A Cache dos resultados da pesquisa irá expirar após este tempo, em segundos. Escreva 0 se deseja desativar esta opção.',
 	'SEARCH_TYPE'							=> 'Modo de pesquisa',
-	'SEARCH_TYPE_EXPLAIN'					=> 'O phpBB permite-lhe selecionar o modo que será utilizado para a pesquisa de textos nos conteúdos da mensagem. Por padrão, será utilizado apenas o próprio sistema de pesquisas por textos completos.',
-	'SWITCHED_SEARCH_BACKEND'				=> 'O modo de pesquisa foi selecionado com sucesso. Agora, para utilizá-lo terá que certificar-se da existência de um índice para o modo escolhido.',
+	'SEARCH_TYPE_EXPLAIN'					=> 'O phpBB permite-lhe seleccionar o modo que será utilizado para a pesquisa de textos nos conteúdos da mensagem. Por padrão, será utilizado apenas o próprio sistema de pesquisas por textos completos.',
+	'SWITCHED_SEARCH_BACKEND'				=> 'O modo de pesquisa foi seleccionado com sucesso. Agora, para utilizá-lo terá que certificar-se da existência de um índice para o modo escolhido.',
 
 	'TOTAL_WORDS'							=> 'Número Total de Palavras indexadas',
 	'TOTAL_MATCHES'							=> 'Número Total de Palavras indexadas para relações de Mensagens',
 
-	'YES_SEARCH'							=> 'Ativar Facilidades para Pesquisa',
-	'YES_SEARCH_EXPLAIN'					=> 'Ativar funcionalidades de pesquisa especiais incluindo a pesquisa de Membros.',
-	'YES_SEARCH_UPDATE'						=> 'Ativar a atualização de textos completos',
-	'YES_SEARCH_UPDATE_EXPLAIN'				=> 'Os índices de texto completo são atualizados ao enviar uma mensagem, mesmo se a pesquisa estiver desativada.',
+	'YES_SEARCH'							=> 'Activar Facilidades para Pesquisa',
+	'YES_SEARCH_EXPLAIN'					=> 'Activar funcionalidades de pesquisa especiais incluindo a pesquisa de Membros.',
+	'YES_SEARCH_UPDATE'						=> 'Activar a actualização de textos completos',
+	'YES_SEARCH_UPDATE_EXPLAIN'				=> 'Os índices de texto completo são actualizados ao enviar uma mensagem, mesmo se a pesquisa estiver desactivada.',
 ));
 
 ?>

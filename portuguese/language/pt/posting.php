@@ -5,7 +5,7 @@
 *
 * @package language
 * @version 1.0.3
-* @Traduzido por: http://phpbbportugal.com - segundo as normas do Acordo Ortográfico
+* @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 * 
@@ -72,7 +72,7 @@ $lang = array_merge($lang, array(
 	'CANNOT_POST_STICKY'			=> 'Não pode pode criar Tópicos fixos.',
 	'CHANGE_TOPIC_TO'				=> 'Alterar Tópico para',
 	'CLOSE_TAGS'					=> 'Fechar tags',
-	'CURRENT_TOPIC'					=> 'Tópico atual',
+	'CURRENT_TOPIC'					=> 'Tópico actual',
 
 	'DELETE_FILE'					=> 'Apagar Ficheiro',
 	'DELETE_MESSAGE'				=> 'Apagar a Mensagem',
@@ -80,9 +80,9 @@ $lang = array_merge($lang, array(
 	'DELETE_OWN_POSTS'				=> 'Só pode apagar as suas Mensagens.',
 	'DELETE_POST_CONFIRM'			=> 'Tem a certeza que deseja apagar esta Mensagem?',
 	'DELETE_POST_WARN'				=> 'Uma vez apagada, a Mensagem não poderá ser recuperada',
-	'DISABLE_BBCODE'				=> 'Desativar o BBCode',
+	'DISABLE_BBCODE'				=> 'Desactivar o BBCode',
 	'DISABLE_MAGIC_URL'				=> 'Não processar as URLs automaticamente',
-	'DISABLE_SMILIES'				=> 'Desativar as Emoções',
+	'DISABLE_SMILIES'				=> 'Desactivar as Emoções',
 	'DISALLOWED_CONTENT'			=> 'O envio foi rejeitado porque o Ficheiro enviado foi identificado como provavelmente malicioso.',
 	'DISALLOWED_EXTENSION'			=> 'A extensão %s não é permitida.',
 	'DRAFT_LOADED'					=> 'Rascunho carregado, pode terminar sua Mensagem. O rascunho será apagado ao enviar a Mensagem.',
@@ -115,7 +115,7 @@ $lang = array_merge($lang, array(
 
 	'LOAD'							=> 'Carregar',
 	'LOAD_DRAFT'					=> 'Carregar rascunho',
-	'LOAD_DRAFT_EXPLAIN'			=> 'Selecione o rascunho. Tenha em atenção que ao selecionar um rascunho o mesmo deixará de ficar arquivado. No entanto pode voltar a guardar a mensagem, criando um novo rascunho. Pode ver, editar e apagar rascunhos no Painel de Controlo do Utilizador.',
+	'LOAD_DRAFT_EXPLAIN'			=> 'Seleccione o rascunho. Tenha em atenção que ao seleccionar um rascunho o mesmo deixará de ficar arquivado. No entanto pode voltar a guardar a mensagem, criando um novo rascunho. Pode ver, editar e apagar rascunhos no Painel de Controlo do Utilizador.',
 	'LOGIN_EXPLAIN_BUMP'			=> 'Tem que ligar-se para ressuscitar Tópicos neste Fórum.',
 	'LOGIN_EXPLAIN_DELETE'			=> 'Tem que ligar-se para apagar Mensagens neste Fórum.',
 	'LOGIN_EXPLAIN_POST'			=> 'Tem que ligar-se para enviar Mensagens neste Fórum.',
@@ -148,7 +148,7 @@ $lang = array_merge($lang, array(
 	'POLL_FOR'						=> 'Votação expira em',
 	'POLL_FOR_EXPLAIN'				=> 'Insira 0 ou deixe em branco o campo para uma votação sem tempo limite.',
 	'POLL_MAX_OPTIONS'				=> 'Opções por Utilizador',
-	'POLL_MAX_OPTIONS_EXPLAIN'		=> 'Este é o número de opções que cada Utilizador pode selecionar quando votar.',
+	'POLL_MAX_OPTIONS_EXPLAIN'		=> 'Este é o número de opções que cada Utilizador pode seleccionar quando votar.',
 	'POLL_OPTIONS'					=> 'Opções da votação',
 	'POLL_OPTIONS_EXPLAIN'			=> 'Escreva uma opção de voto por linha. Não pode exceder <strong>%d</strong> opções.',
 	'POLL_OPTIONS_EDIT_EXPLAIN'		=> 'Escreva uma opção de voto por linha. Não pode exceder <strong>%d</strong> opções. Excluindo ou adicionando opções reiniciará a votação.',
@@ -156,11 +156,11 @@ $lang = array_merge($lang, array(
 	'POLL_TITLE_TOO_LONG'			=> 'O Título da votação deve conter no máximo 100 caracteres.',
 	'POLL_TITLE_COMP_TOO_LONG'		=> 'O Título da votação é muito longo, considerar remoção de BBCodes ou Emoções.',
 	'POLL_VOTE_CHANGE'				=> 'Permitir mudança de voto',
-	'POLL_VOTE_CHANGE_EXPLAIN'		=> 'Se selecionado, os Utilizadores podem alterar o voto.',
+	'POLL_VOTE_CHANGE_EXPLAIN'		=> 'Se seleccionado, os Utilizadores podem alterar o voto.',
 	'POSTED_ATTACHMENTS'			=> 'Anexos',
 	'POST_APPROVAL_NOTIFY'			=> 'Será avisado quando a mensagem for aprovada.',
 	'POST_CONFIRMATION'				=> 'Confirmação da Mensagem',
-	'POST_CONFIRM_EXPLAIN'			=> 'Para evitar Mensagens automáticas, o administrador deste painel exige que informe o código de confirmação. O código é mostrado na imagem abaixo. Se não consegue ver a imagem, por favor contate o %sAdministrador%s.',
+	'POST_CONFIRM_EXPLAIN'			=> 'Para evitar Mensagens automáticas, o administrador deste painel exige que informe o código de confirmação. O código é mostrado na imagem abaixo. Se não consegue ver a imagem, por favor contacte o %sAdministrador%s.',
 	'POST_DELETED'					=> 'A Mensagem foi apagada com sucesso.',
 	'POST_EDITED'					=> 'A Mensagem foi editada com sucesso.',
 	'POST_EDITED_MOD'				=> 'A Mensagem foi editada mas necessita de ser Aprovada por um Moderador antes de se tornar visível. Será avisado quando a sua Mensagem for aprovada.',
@@ -169,7 +169,7 @@ $lang = array_merge($lang, array(
 	'POST_NORMAL'					=> 'Normal',
 	'POST_REVIEW'					=> 'Rever Mensagem',
 	'POST_REVIEW_EDIT'				=> 'Revisão da mensagem',
-	'POST_REVIEW_EDIT_EXPLAIN'		=> 'Esta mensagem foi alterada por outro utilizador enquanto estava a editá-la. Pode rever a versão atual desta mensagem e ajustar a sua edição.',
+	'POST_REVIEW_EDIT_EXPLAIN'		=> 'Esta mensagem foi alterada por outro utilizador enquanto estava a editá-la. Pode rever a versão actual desta mensagem e ajustar a sua edição.',
 	'POST_REVIEW_EXPLAIN'			=> 'Pelo menos uma nova Mensagem foi feita neste Tópico. Deseja rever a sua Mensagem levando isso em conta.',
 	'POST_STORED'					=> 'Esta Mensagem foi enviada com sucesso.',
 	'POST_STORED_MOD'				=> 'Esta Mensagem foi enviada, mas necessita ser Aprovada.',
@@ -188,7 +188,7 @@ $lang = array_merge($lang, array(
 	'STICKY_ANNOUNCE_TIME_LIMIT'	=> 'Tempo limite do Fixo/Anúncio',
 	'STICK_TOPIC_FOR'				=> 'Fixar Tópico por',
 	'STICK_TOPIC_FOR_EXPLAIN'		=> 'Digite 0 ou deixe em branco para manter Fixo/Anúncio por tempo indeterminado. Por favor note que este número é relativo à data da colocação da mensagem.',
-	'STYLES_TIP'					=> 'Dica: Estilos podem ser aplicados a textos selecionados.',
+	'STYLES_TIP'					=> 'Dica: Estilos podem ser aplicados a textos seleccionados.',
 
 	'TOO_FEW_CHARS'					=> 'A Mensagem contém poucos caracteres.',
 	'TOO_FEW_CHARS_LIMIT'			=> 'A sua mensagem tem %1$d caracteres. O número mínimo de caracteres que precisa para entrar é %2$d.',
@@ -204,8 +204,8 @@ $lang = array_merge($lang, array(
 	'TOPIC_BUMPED'					=> 'O Tópico foi Ressuscitado com sucesso.',
 
 	'UNAUTHORISED_BBCODE'			=> 'Não pode usar certos BBCodes: %s.',
-	'UNGLOBALISE_EXPLAIN'			=> 'Para alterar um anúncio para um Tópico normal, tem que selecionar o Fórum onde será exibido.',
-	'UPDATE_COMMENT'				=> 'Atualizar comentário',
+	'UNGLOBALISE_EXPLAIN'			=> 'Para alterar um anúncio para um Tópico normal, tem que seleccionar o Fórum onde será exibido.',
+	'UPDATE_COMMENT'				=> 'Actualizar comentário',
 	'URL_INVALID'					=> 'A URL indicada é inválida.',
 	'URL_NOT_FOUND'					=> 'O Ficheiro indicado não foi encontrado.',
 	'URL_IS_OFF'					=> '[url] está <em>Desligado</em>',
