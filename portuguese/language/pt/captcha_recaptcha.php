@@ -4,7 +4,7 @@
 * recaptcha [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2009 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License

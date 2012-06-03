@@ -4,7 +4,7 @@
 * ucp [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -176,7 +176,8 @@ $lang = array_merge($lang, array(
 	'CREATE_FOLDER'						=> 'Adicionar Pasta',
 	'CURRENT_IMAGE'						=> 'Imagem Actual',
 	'CURRENT_PASSWORD'					=> 'Senha Actual',
-	'CURRENT_PASSWORD_EXPLAIN'			=> 'Introduza a Senha actual para validar as alterações.',
+	'CURRENT_PASSWORD_EXPLAIN'			=> 'Para alterar o seu endereço de email ou nome de utilizador, tem que inserir a sua senha actual.',
+	'CURRENT_CHANGE_PASSWORD_EXPLAIN'	=> 'Para alterar a senha, o endereço de email ou o seu nome de utilizador, tem que inserir a sua senha actual.',
 	'CUR_PASSWORD_EMPTY'				=> 'Não digitou a senha actual.',
 	'CUR_PASSWORD_ERROR'				=> 'A Senha actual que escreveu está incorrecta.',
 	'CUSTOM_DATEFORMAT'					=> 'Personalizar',

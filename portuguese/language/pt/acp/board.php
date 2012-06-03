@@ -4,7 +4,7 @@
 * acp_board [Português]
 *
 * @package language
-* * @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -109,7 +109,7 @@ $lang = array_merge($lang, array(
 	'MAX_AVATAR_SIZE'				=> 'Dimensões Máximas do Avatar',
 	'MAX_AVATAR_SIZE_EXPLAIN'		=> '(Altura x Largura em pixeis).',
 	'MAX_FILESIZE'					=> 'Tamanho Máximo do Ficheiro Avatar',
-	'MAX_FILESIZE_EXPLAIN'			=> 'Dos Ficheiros de Avatar enviados.',
+	'MAX_FILESIZE_EXPLAIN'			=> 'Dos Ficheiros de Avatar enviados. Se este valor for 0, o tamanho do ficheiro enviado fica sujeito às permissões do PHP.',
 	'MIN_AVATAR_SIZE'				=> 'Dimensões Mínimas do Avatar',
 	'MIN_AVATAR_SIZE_EXPLAIN'		=> '(Altura x Largura em pixeis).',
 )); 

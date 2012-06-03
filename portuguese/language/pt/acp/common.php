@@ -4,7 +4,7 @@
 * acp_common [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -173,7 +173,7 @@ $lang = array_merge($lang, array(
 	'ACP_THEMES'					=> 'Temas',
 
 	'ACP_UPDATE'					=> 'Actualizar',
-	'ACP_USERS_FORUM_PERMISSIONS'	=> 'Permissões de Fóruns e Utilizadores',
+	'ACP_USERS_FORUM_PERMISSIONS'	=> 'Permissões Individuais de Utilizadores',
 	'ACP_USERS_LOGS'				=> 'Registo do Utilizador',
 	'ACP_USERS_PERMISSIONS'			=> 'Permissões do Utilizador',
 	'ACP_USER_ATTACH'				=> 'Anexos',
@@ -406,7 +406,7 @@ $lang = array_merge($lang, array(
 	'INACTIVE_REASON_UNKNOWN'		=> 'Desconhecido',
 	'INACTIVE_USERS'				=> 'Utilizadores Inactivos',
 	'INACTIVE_USERS_EXPLAIN'		=> 'Esta é uma lista dos Utilizadores Registados, mas com os Registos ainda inactivos. Se desejar pode activar, excluir ou avisar (enviando um email) estes Utilizadores.',
-	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'Lista dos 10 últimos Utilizadores Registados ainda inactivos. A lista completa está disponível através do item apropriado do Menu ou clicando no atalho abaixo onde pode activar, excluir ou avisar (enviando um email) estes Utilizadores se desejar.',
+	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'Lista dos 10 últimos Utilizadores Registados ainda inactivos. As Contas estão inactivas porque a sua activação está configurada para ser feita pelo próprio utilizador e estes ainda o não fizeram ou porque foram desactivadas. A lista completa está disponível através do item apropriado do Menu ou clicando no atalho abaixo onde pode activar, excluir ou avisar (enviando um email) estes Utilizadores se desejar.',
 
 	'NO_INACTIVE_USERS'				=> 'Não há Utilizadores Inactivos',
 
@@ -460,7 +460,7 @@ $lang = array_merge($lang, array(
 	'LOG_ACL_TRANSFER_PERMISSIONS'			=> '<strong>Permissões Transferidas de</strong><br />» %s',
 	'LOG_ACL_RESTORE_PERMISSIONS'			=> '<strong>Permissões restauradas depois de utilizar as permissões de</strong><br />» %s',
 
-	'LOG_ADMIN_AUTH_FAIL'					=> '<strong>Tentativas de acesso Falhadas</strong>',
+	'LOG_ADMIN_AUTH_FAIL'					=> '<strong>Falha no Acesso</strong>',
 	'LOG_ADMIN_AUTH_SUCCESS'				=> '<strong>Acesso efectuado com sucesso</strong>',
 
 	'LOG_ATTACHMENTS_DELETED'				=> '<strong>Remover anexos do Utilizador</strong><br />» %s',

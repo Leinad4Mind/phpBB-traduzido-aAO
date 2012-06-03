@@ -4,7 +4,7 @@
 * acp_permissions [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -182,7 +182,7 @@ $lang = array_merge($lang, array(
 	'ROLE_USER_NOAVATAR'			=> 'Utilizador Sem Avatar',
 	'ROLE_USER_NOPM'				=> 'Utilizador Sem Mensagens Privadas',
 	'ROLE_USER_STANDARD'			=> 'Utilizador Padrão',
-	'ROLE_USER_NEW_MEMBER'			=> 'Utilizador Registado Recentemente',
+	'ROLE_USER_NEW_MEMBER'			=> 'Características do Utilizador Registado Recentemente',
 	
 	'ROLE_DESCRIPTION_ADMIN_FORUM'			=> 'Tem acesso às funções de Gestão e Permissões de Fóruns.',
 	'ROLE_DESCRIPTION_ADMIN_FULL'			=> 'Tem acesso a todas as funções administrativas neste Fórum. <b>Recomendado para Fundadores</b>.',
@@ -225,8 +225,8 @@ $lang = array_merge($lang, array(
 	'SELECT_TYPE'							=> 'Seleccionar Tipo',
 	'SET_PERMISSIONS'						=> 'Dar Permissões',
 	'SET_ROLE_PERMISSIONS'					=> 'Dar Permissões da Tarefa',
-	'SET_USERS_PERMISSIONS'					=> 'Dar Permissões dos Utilizadores',
-	'SET_USERS_FORUM_PERMISSIONS'			=> 'Dar Permissões dos Fóruns',
+	'SET_USERS_PERMISSIONS'					=> 'Dar Permissões de Utilizador',
+	'SET_USERS_FORUM_PERMISSIONS'			=> 'Dar Permissões de Utilizador do Fórum',
 
 	'TRACE_DEFAULT'							=> 'Por Padrão, todas as opções estão assinaladas como <samp>NÃO</samp> (unset). Então, a permissão pode ser substituída por outras configurações.',
 	'TRACE_FOR'								=> 'Copiar para',
@@ -273,7 +273,7 @@ $lang = array_merge($lang, array(
 	'TRACE_WHO'								=> 'Quem',
 	'TRACE_TOTAL'							=> 'Total',
 
-	'USERS_NOT_ASSIGNED'					=> 'Nenhum Utilizador atribuído a esta tarefa',
+	'USERS_NOT_ASSIGNED'					=> 'Não há utilizadores com esta tarefa atribuída',
 	'USER_IS_MEMBER_OF_DEFAULT'				=> 'é um Membro dos Grupos Pré-Definidos seguintes',
 	'USER_IS_MEMBER_OF_CUSTOM'				=> 'é um Membro dos Grupos Personalizados pelo Utilizador seguintes',
 

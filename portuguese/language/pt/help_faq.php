@@ -4,7 +4,7 @@
 * help_faq [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -342,7 +342,7 @@ $help = array(
 	),
 	array(
 		0	=> 'Por que não existe a Função X?',
-		1	=> 'Este Software foi escrito e licenciado pelo <b>phpBB Group</b>. Se gostaria de ver alguma função adicionada, visite a <a href="http://www.phpbb.com/support/forums" target="_blank";" title="Abrir numa janela nova"><b>Página Oficial da Comunidade phpBB</b></a> e informe-se do que o <b>Grupo phpBB</b> tem a dizer sobre o assunto. Não envie <b>Mensagens</b> com pedidos de funções no <b>Fórum phpBB</b>. Este Grupo utiliza a Sourceforge para resolver situações relativas a novas funções. Leia cuidadosamente esse sistema para ver se já foi tomada alguma posição, relativa à função em questão, seguindo então o procedimento lá mencionado.',
+		1	=> 'Este software foi escrito e licenciado pelo Grupo phpBB. Se acredita que alguma função pode ser adicionada, ou se quer relatar um erro, por favor visite o site <a href="http://area51.phpbb.com/">Area51</a>, onde encontrará recursos para o fazer.',
 	),
 	array(
 		0	=> 'Contactos sobre questões abusivas e/ou ilegais relativas ao Fórum.',

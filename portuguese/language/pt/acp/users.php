@@ -4,7 +4,7 @@
 * acp_users [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -125,6 +125,7 @@ $lang = array_merge($lang, array(
 	'USER_GROUP_SPECIAL'			=> 'O Utilizador é Membro dos Grupos pré-definidos',
 	'USER_LIFTED_NR'				=> 'Removido com sucesso o novo utilizador registado recentemente.',
 	'USER_NO_ATTACHMENTS'			=> 'Não existem Ficheiros a exibir.',
+	'USER_NO_POSTS_TO_DELETE'		=> 'O utilizador não tem mensagens para reter ou excluir.',
 	'USER_OUTBOX_EMPTIED'			=> 'Apagado com sucesso a mensagem privada da caixa de saída.',
 	'USER_OUTBOX_EMPTY'				=> 'A caixa de saída de mensagens privadas está agora vazia.',
 	'USER_OVERVIEW_UPDATED'			=> 'Detalhes do Utilizador foram actualizados.',

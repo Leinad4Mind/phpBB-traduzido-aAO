@@ -4,7 +4,7 @@
 * memberlist [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -111,7 +111,7 @@ $lang = array_merge($lang, array(
 
 	'POST_IP'					=> 'Enviado do IP/Domínio',
 
-	'RANK'						=> 'Rank',
+//	'RANK'						=> 'Rank',
 	'REAL_NAME'					=> 'Nome do destinatário',
 	'RECIPIENT'					=> 'Destinatário',
 	'REMOVE_FOE'				=> 'Apagar dos inimigos',

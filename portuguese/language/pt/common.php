@@ -4,7 +4,7 @@
 * common [Português]
 *
 * @package language
-* @version 1.0.3
+* @version 1.0.4
 * @Traduzido por: http://phpbbportugal.com | pré-Acordo Ortográfico
 * @copyright (c) 2005 phpBB Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -192,7 +192,7 @@ $lang = array_merge($lang, array(
 	'FORM_INVALID'						=> 'Campo inválido. Tente submeter novamente.',
 	'FORUM'								=> 'Fórum',
 	'FORUMS'							=> 'Fóruns',
-	'FORUMS_MARKED'						=> 'Os Fóruns seleccionados foram marcados como lidos.',
+	'FORUMS_MARKED'						=> 'Os Fóruns foram marcados como lidos.',
 	'FORUM_CAT'							=> 'Categoria do Fórum',
 	'FORUM_INDEX'						=> 'Índice do Fórum',
 	'FORUM_LINK'						=> 'Endereço do Fórum',
@@ -451,6 +451,7 @@ $lang = array_merge($lang, array(
 	'POST_TIME'							=> 'Data da Mensagem',
 	'POST_TOPIC'						=> 'Criar um novo Tópico',
 	'POST_UNAPPROVED'					=> 'Clique para aprovar a mensagem',
+	'POWERED_BY'						=> 'Desenvolvido por %s',
 	'PREVIEW'							=> 'Prever',
 	'PREVIOUS'							=> 'Anterior',      // Used in pagination
 	'PREVIOUS_STEP'						=> 'Anterior',
@@ -459,6 +460,7 @@ $lang = array_merge($lang, array(
 	'PRIVATE_MESSAGES'					=> 'Mensagens Privadas',
 	'PRIVATE_MESSAGING'					=> 'A enviar Mensagem Privada',
 	'PROFILE'							=> 'Painel de Controlo do Utilizador',
+	'RANK'								=> 'Rank',
 
 	'READING_FORUM'						=> 'Ver Tópicos em %s',
 	'READING_GLOBAL_ANNOUNCE'			=> 'A ler Anúncio Global',
