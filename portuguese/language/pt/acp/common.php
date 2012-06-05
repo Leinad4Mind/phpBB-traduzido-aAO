@@ -118,7 +118,7 @@ $lang = array_merge($lang, array(
 	'ACP_MAIN'						=> 'Índice Principal',
 	'ACP_MANAGE_EXTENSIONS'			=> 'Administrar Extensões',
 	'ACP_MANAGE_FORUMS'				=> 'Administrar Fóruns',
-	'ACP_MANAGE_RANKS'				=> 'Administrar Ranks',
+	'ACP_MANAGE_RANKS'				=> 'Administrar Classificações',
 	'ACP_MANAGE_REASONS'			=> 'Administrar razões de Denúncia',
 	'ACP_MANAGE_USERS'				=> 'Administrar Utilizadores',
 	'ACP_MASS_EMAIL'				=> 'Email em Massa',
@@ -144,7 +144,7 @@ $lang = array_merge($lang, array(
 
 	'ACP_QUICK_ACCESS'				=> 'Acesso Rápido',
 
-	'ACP_RANKS'						=> 'Ranks',
+	'ACP_RANKS'						=> 'Classificações',
 	'ACP_REASONS'					=> 'Razões de Denúncia',
 	'ACP_REGISTER_SETTINGS'			=> 'Configuração do Registo',
 
@@ -185,7 +185,7 @@ $lang = array_merge($lang, array(
 	'ACP_USER_PERM'					=> 'Permissões',
 	'ACP_USER_PREFS'				=> 'Preferências',
 	'ACP_USER_PROFILE'				=> 'Perfil',
-	'ACP_USER_RANK'					=> 'Rank',
+	'ACP_USER_RANK'					=> 'Classificação',
 	'ACP_USER_ROLES'				=> 'Categorias dos Utilizadores',
 	'ACP_USER_SECURITY'				=> 'Segurança do Utilizador',
 	'ACP_USER_SIG'					=> 'Assinatura',
@@ -391,7 +391,7 @@ $lang = array_merge($lang, array(
 	'VIEW_ADMIN_LOG'				=> 'Ver registos do Administrador',
 	'VIEW_INACTIVE_USERS'			=> 'Ver Utilizadores Inactivos',
 
-	'WELCOME_PHPBB'					=> 'Bem vindo ao phpBB',
+	'WELCOME_PHPBB'					=> 'Bem-vindo ao phpBB',
 	'WRITABLE_CONFIG'				=> 'O seu ficheiro de configuração (config.php) encontra-se universalmente configurável. É altamente recomendável que modifique as Permissões do ficheiro para 640 ou 644 (leia: <a href="http://pt.wikipedia.org/wiki/Chmod" rel="external">chmod</a>).',
 )); 
 
@@ -422,7 +422,7 @@ $lang = array_merge($lang, array(
 
 // Send statistics page
 $lang = array_merge($lang, array(
-	'EXPLAIN_SEND_STATISTICS'		=> 'Por favor envie informação acerca do seu servidor e configurações do Fórum para análise de estatística do phpBB. Toda a informação que possa identificá-lo a si ou ao seu website será removida - os dados são totalmente <strong>anónimos</strong>. Basearemos as nossas decisões sobre as futuras versões de phpBB com esta informação. As estatísticas serão publicamente disponibilizadas. Compartilharemos igualmente os dados com o projeto PHP, a linguagem de programação phpBB é baseada nele.',
+	'EXPLAIN_SEND_STATISTICS'		=> 'Por favor, envie informação acerca do seu servidor e configurações do Fórum para análise de estatística do phpBB. Toda a informação que possa identificá-lo a si ou ao seu website será removida - os dados são totalmente <strong>anónimos</strong>. Basearemos as nossas decisões sobre as futuras versões de phpBB com esta informação. As estatísticas serão publicamente disponibilizadas. Compartilharemos igualmente os dados com o projeto PHP, a linguagem de programação phpBB é baseada nele.',
 	'EXPLAIN_SHOW_STATISTICS'		=> 'Usando o botão abaixo pode visualizar todas as variáveis que serão transmitidas.',
 	'DONT_SEND_STATISTICS'			=> 'Clique aqui para entrar no ACP, se não deseja enviar as informações estatísticas para o phpBB.',
 	'GO_ACP_MAIN'					=> 'Ir para a página inicial do ACP',
@@ -659,9 +659,9 @@ $lang = array_merge($lang, array(
 	'LOG_PURGE_SESSIONS'					=> '<strong>Sessões terminadas</strong>',
 
 
-	'LOG_RANK_ADDED'						=> '<strong>Rank Adicionado</strong><br />» %s',
-	'LOG_RANK_REMOVED'						=> '<strong>Rank Apagado</strong><br />» %s',
-	'LOG_RANK_UPDATED'						=> '<strong>Rank Actualizado</strong><br />» %s',
+	'LOG_RANK_ADDED'						=> '<strong>Classificação Adicionada</strong><br />» %s',
+	'LOG_RANK_REMOVED'						=> '<strong>Classificação Apagada</strong><br />» %s',
+	'LOG_RANK_UPDATED'						=> '<strong>Classificação Actualizada</strong><br />» %s',
 
 	'LOG_REASON_ADDED'						=> '<strong>Razão de Denúncia/Negação Adicionada</strong><br />» %s',
 	'LOG_REASON_REMOVED'					=> '<strong>Razão de Denúncia/Negação Apagada</strong><br />» %s',

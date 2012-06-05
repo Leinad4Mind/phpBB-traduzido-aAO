@@ -53,7 +53,7 @@ $lang = array_merge($lang, array(
 	'BLANK_PREFIX_FOUND'				=> 'Uma pesquisa nas suas tabelas mostrou uma instalação válida sem utilização de um prefixo para as tabelas.',
 	'BOARD_NOT_INSTALLED'				=> 'Não foi encontrada nenhuma instalação',
 	'BOARD_NOT_INSTALLED_EXPLAIN'		=> 'Para fazer a conversão tem que ter uma instalação padrão do phpBB3. Visite a página <a href="%s">Instalar o phpBB3 pela primeira vez</a>.',
-	'BACKUP_NOTICE'						=> 'Por favor faça Cópias de Segurança do seu Fórum (Base de Dados e Ficheiros) para a eventualidade de surgirem problemas durante a actualização',
+	'BACKUP_NOTICE'						=> 'Por favor, faça Cópias de Segurança do seu Fórum (Base de Dados e Ficheiros) para a eventualidade de surgirem problemas durante a actualização',
 
 	'CATEGORY'							=> 'Categoria',
 	'CACHE_STORE'						=> 'Tipo de cache',
@@ -82,7 +82,7 @@ $lang = array_merge($lang, array(
 	'CONVERT'							=> 'Converter',
 	'CONVERT_COMPLETE'					=> 'Conversão terminada',
 	'CONVERT_COMPLETE_EXPLAIN'			=> 'O seu Fórum foi convertido com sucesso para o phpBB 3.0. Já pode <a href="../">Entrar no Fórum</a>. Se desejar pode pedir ajuda online através do <a href="http://www.phpbb.com/support/documentation/3.0/">Guía do utilizador</a>, no <a href="http://www.phpbb.com/phpBB/viewforum.php?f=46">Suporte Oficial do phpBB</a>.',
-	'CONVERT_INTRO'						=> 'Bem vindo à conversão unificada do phpBB',
+	'CONVERT_INTRO'						=> 'Bem-vindo à conversão unificada do phpBB',
 	'CONVERT_INTRO_BODY'				=> 'Aqui é possível de importar dados de outros sistemas de Fóruns (instalados). A lista seguinte mostra os módulos de conversão disponíveis. Se não existe um conversor na lista para o código de Fórum que deseja converter, por favor, verifique no nosso sítio web onde podem estar disponíveis outros conversores.',
 	'CONVERT_NEW_CONVERSION'			=> 'Nova conversão',
 	'CONVERT_NOT_EXIST'					=> 'O Conversor seleccionado não existe',
@@ -140,7 +140,7 @@ $lang = array_merge($lang, array(
 	'DB_TEST'							=> 'Teste da ligação',
 	'DEFAULT_LANG'						=> 'Idioma padrão do Fórum',
 	'DEFAULT_PREFIX_IS'					=> 'O Conversor não encontrou as tabelas com o prefixo indicado. Verifique se as informações do Fórum estão correctas. O Prefixo Padrão para a tabela %1$s é <strong>%2$s</strong>',
-	'DEV_NO_TEST_FILE'					=> 'Não foi especificado um valor para a variável ficheiro_teste no conversor. Se é utilizador deste conversor, e não deveria estar vendo este erro, por favor contacte o autor do conversor. Se é o autor do conversor, deve especificar o nome de um ficheiro que exista no Fórum de destino para que seja possível a verificação da directoria.',
+	'DEV_NO_TEST_FILE'					=> 'Não foi especificado um valor para a variável ficheiro_teste no conversor. Se é utilizador deste conversor, e não deveria estar vendo este erro, por favor, contacte o autor do conversor. Se é o autor do conversor, deve especificar o nome de um ficheiro que exista no Fórum de destino para que seja possível a verificação da directoria.',
 	'DIRECTORIES_AND_FILES'				=> 'Configuração de Ficheiro e Directoria',
 	'DISABLE_KEYS'						=> 'Desactivando chaves',
 	'DLL_FIREBIRD'						=> 'Firebird 1.5+',
@@ -193,10 +193,10 @@ $lang = array_merge($lang, array(
 	'INSTALL_CONGRATS_EXPLAIN'			=> '
 		Instalou o phpBB %1$s com sucesso. Por favor, proceda à escolha de uma das seguintes opções:</p>
 		<h2>Converter um Fórum existente para phpBB3</h2>
-		<p>O phpBB Unified Framework Converter suporta a conversão do phpBB 2.0.x e outros sistemas de Fóruns para phpBB3. Se desejar converter um Fórum existente, por favor <a href="%2$s">siga para o conversor</a>.</p>
+		<p>O phpBB Unified Framework Converter suporta a conversão do phpBB 2.0.x e outros sistemas de Fóruns para phpBB3. Se desejar converter um Fórum existente, por favor, <a href="%2$s">siga para o conversor</a>.</p>
 		<h2>Parta à descoberta do seu phpBB3!</h2>
 		<p>Clicando no botão abaixo acederá ao formulário de apresentação dos dados estatísticos do phpBB no seu Painel de Administração (ACP). Gostaríamos que nos ajudasse enviando essa informação. Depois, deve examinar as opções disponíveis. Lembre-se que existe ajuda online disponível: <a href="http://www.phpbb.com/support/documentation/3.0/">Documentação</a>, <a href="%3$s">Leia-me</a>, <a href="http://www.phpbb.com/community/viewforum.php?f=46">Fórum de Suporte em língua inglesa</a><strong> e o <a href="http://www.phpbbportugal.com/forum/">Fórum de Suporte em português europeu</a>.</p><p><strong>Não se esqueça de apagar, renomear ou mover a directoria de instalação! Enquanto esta directoria existir, só terá acesso ao Painel de Administração (ACP).</strong>',
-	'INSTALL_INTRO'						=> 'Bem vindo à instalação',
+	'INSTALL_INTRO'						=> 'Bem-vindo à instalação',
 
 	'INSTALL_INTRO_BODY'				=> 'Esta opção permite instalar o phpBB.</p><p>Durante o processo de instalação necessitará de introduzir as configurações da sua Base de Dados.<br /><br /> Se não as conhece, obtenha-as junto do fornecedor do Servidor de Alojamento.<br /> Necessitará igualmente de conhecer:</p>
 
@@ -261,7 +261,7 @@ $lang = array_merge($lang, array(
 	'INST_ERR_USER_TOO_SHORT'			=> 'O nome de Utilizador indicado é muito curto. O comprimento mínimo é 3 caracteres.',
 	'INVALID_PRIMARY_KEY'				=> 'Chave primária inválida : %s',
 
-	'LONG_SCRIPT_EXECUTION'				=> 'Aguarde um momento... Por favor não interrompa este script.',
+	'LONG_SCRIPT_EXECUTION'				=> 'Aguarde um momento... Por favor, não interrompa este script.',
 
 	// mbstring
 	'MBSTRING_CHECK'					=> 'Verificação da extensão <samp>mbstring</samp>',
@@ -278,7 +278,7 @@ $lang = array_merge($lang, array(
 	'MAKE_FOLDER_WRITABLE'				=> 'Por Favor, certifique-se de que esta pasta existe e pode ser escrita pelo servidor e tente novamente:<br />»<b>%s</b>',
 	'MAKE_FOLDERS_WRITABLE'				=> 'Por Favor, certifique-se de que estas pastas existem e podem ser escritas pelo servidor e tente novamente:<br />»<b>%s</b>',
 
-	'MYSQL_SCHEMA_UPDATE_REQUIRED'		=> 'O seu programa de Base de Dados MySQL está desactualizado. O phpBB detectou um programa para MySQL 3.x/4.x, mas o servidor é executado em MySQL %2$s.<br /><strong>Antes de proceder à sua actualização, tem que actualizar o programa.</strong><br /><br />Por favor reporte para <a href="http://www.phpbb.com/kb/article/doesnt-have-a-default-value-errors/">Knowledge Base article about upgrading the MySQL schema</a>. Se encontrar algum problema, use por favor o <a href="http://www.phpbb.com/community/viewforum.php?f=46">Fórum de Suporte em língua inglesa</a><strong> ou o <a href="http://www.phpbbportugal.com/forum/">Fórum de Suporte em Português Europeu</a>.',
+	'MYSQL_SCHEMA_UPDATE_REQUIRED'		=> 'O seu programa de Base de Dados MySQL está desactualizado. O phpBB detectou um programa para MySQL 3.x/4.x, mas o servidor é executado em MySQL %2$s.<br /><strong>Antes de proceder à sua actualização, tem que actualizar o programa.</strong><br /><br />Por favor, reporte para <a href="http://www.phpbb.com/kb/article/doesnt-have-a-default-value-errors/">Knowledge Base article about upgrading the MySQL schema</a>. Se encontrar algum problema, use por favor, o <a href="http://www.phpbb.com/community/viewforum.php?f=46">Fórum de Suporte em língua inglesa</a><strong> ou o <a href="http://www.phpbbportugal.com/forum/">Fórum de Suporte em Português Europeu</a>.',
 	
 	'NAMING_CONFLICT'					=> 'Conflito de nomes: %s e %s são pseudónimos<br /><br />%s',
 	'NEXT_STEP'							=> 'Avançar para o próximo passo',
@@ -289,7 +289,7 @@ $lang = array_merge($lang, array(
 	'NO_LOCATION'						=> 'Não foi possível determinar o local. Se o Imagemagick estiver instalado, pode especificar o local mais tarde no seu Painel de Administração.',
 	'NO_TABLES_FOUND'					=> 'Não foi encontrada nenhuma tabela.',
 
-	'OVERVIEW_BODY'						=> 'Bem vindo ao phpBB3!<br /><br /><b>O phpBB™</b> é a solução de código aberto mais utilizada para sistemas de fóruns. A versão 3 é a mais recente de uma série iniciada no ano 2000. Tal como os seus antecessores, tem uma enorme diversidade de ferramentas, uma interface amigável e de fácil compreensão e é suportado pelo <a href="http://www.phpbb.com/support/forums/" onclick="this.target=\'_blank\';" title="Abrir numa janela nova">phpBB Team</a>. O <strong>phpBB3</strong> reuniu o que de melhor havia para o <strong>phpBB2</strong> adicionando as ferramentas mais populares e que não se encontravam presentes nas versões anteriores.<br /><br /> Esperamos que esta nova versão exceda as suas expectativas.<br /><br />Este sistema de instalação vai conduzi-lo através de diversas ferramentas, como a instalação do phpBB3, actualização do sistema para a versão mais recente do phpBB3 a partir de versões anteriores, bem como a conversão para phpBB3 de sistemas de Fóruns diferentes, incluindo o 
+	'OVERVIEW_BODY'						=> 'Bem-vindo ao phpBB3!<br /><br /><b>O phpBB™</b> é a solução de código aberto mais utilizada para sistemas de fóruns. A versão 3 é a mais recente de uma série iniciada no ano 2000. Tal como os seus antecessores, tem uma enorme diversidade de ferramentas, uma interface amigável e de fácil compreensão e é suportado pelo <a href="http://www.phpbb.com/support/forums/" onclick="this.target=\'_blank\';" title="Abrir numa janela nova">phpBB Team</a>. O <strong>phpBB3</strong> reuniu o que de melhor havia para o <strong>phpBB2</strong> adicionando as ferramentas mais populares e que não se encontravam presentes nas versões anteriores.<br /><br /> Esperamos que esta nova versão exceda as suas expectativas.<br /><br />Este sistema de instalação vai conduzi-lo através de diversas ferramentas, como a instalação do phpBB3, actualização do sistema para a versão mais recente do phpBB3 a partir de versões anteriores, bem como a conversão para phpBB3 de sistemas de Fóruns diferentes, incluindo o 
 phpBB 2.0.x. <br /><br />Para informações mais detalhadas, recomendamos a leitura do <a href="../docs/INSTALL.html" onclick="this.target=\'_blank\';" title="Abrir numa janela nova">Guia de Instalação (em língua inglesa)</a>.<br /><br />Para conhecer a licença do phpBB3 ou saber como obter ajuda online, seleccione as opções no menu lateral. <br /><br />Para continuar, seleccione o separador apropriado, <strong>INSTALAR</strong> ou <strong>CONVERTER</strong> no canto superior esquerdo do seu monitor.',
 
 	'PCRE_UTF_SUPPORT'					=> 'Suporte a PCRE UTF-8',
@@ -369,7 +369,7 @@ phpBB 2.0.x. <br /><br />Para informações mais detalhadas, recomendamos a leit
 	'VERIFY_OPTIONS'					=> 'Verificando as opções da configuração',
 	'VERSION'							=> 'Versão',
 
-	'WELCOME_INSTALL'					=> 'Bem vindo à Instalação do phpBB3',
+	'WELCOME_INSTALL'					=> 'Bem-vindo à Instalação do phpBB3',
 	'WRITABLE'							=> 'Gravável',
 ));
 
@@ -470,20 +470,20 @@ $lang = array_merge($lang, array(
 	'NO_ERRORS'							=> 'Sem Erros',
 	'NO_UPDATE_FILES'					=> 'Sem actualização para os ficheiros seguintes',
 	'NO_UPDATE_FILES_EXPLAIN'			=> 'Os ficheiros seguintes são novos ou modificados, mas a directoria em que eles normalmente se encontram não foi encontrada na sua instalação. Se esta lista contém Ficheiros para as directorias como /language ou /styles que tenha alterado, a sua estrutura de directorias e a Actualização deverão ficar incompletas.',
-	'NO_UPDATE_FILES_OUTDATED'			=> 'Nenhuma directoria de actualização válida foi encontrada, por favor, certifique-se de ter enviado correctamente os Ficheiros.<br /><br />A sua Instalação <strong>não</strong> está pronta. As actualizações estão disponíveis para a sua Versão do phpBB %1$s, por favor visite <a href="http://www.phpbb.com/downloads.php" rel="external">http://www.phpbb.com/downloads.php</a> para descarregar o pacote correcto para actualizar da Versão %2$s para a Versão %3$s.',
+	'NO_UPDATE_FILES_OUTDATED'			=> 'Nenhuma directoria de actualização válida foi encontrada, por favor, certifique-se de ter enviado correctamente os Ficheiros.<br /><br />A sua Instalação <strong>não</strong> está pronta. As actualizações estão disponíveis para a sua Versão do phpBB %1$s, por favor, visite <a href="http://www.phpbb.com/downloads.php" rel="external">http://www.phpbb.com/downloads.php</a> para descarregar o pacote correcto para actualizar da Versão %2$s para a Versão %3$s.',
 	'NO_UPDATE_FILES_UP_TO_DATE'		=> 'A sua versão está pronta. Não é necessário executar a ferramenta de actualização. Se deseja ter a absoluta certeza, verifique se enviou correctamente os Ficheiros de Actualização.',
 	'NO_UPDATE_INFO'					=> 'A Informação do Ficheiro de actualização não foi encontrada',
 	'NO_UPDATES_REQUIRED'				=> 'Não há alterações a fazer',
 	'NO_VISIBLE_CHANGES'				=> 'Sem alterações visíveis',
 	'NOTICE'							=> 'Aviso',
 	'NUM_CONFLICTS'						=> 'Número de conflitos',
-	'NUMBER_OF_FILES_COLLECTED'			=> 'Actualmente foram detectadas diferenças em %1$d de %2$d ficheiros.<br />Por favor aguarde até que todos os ficheiros sejam analisados.',
+	'NUMBER_OF_FILES_COLLECTED'			=> 'Actualmente foram detectadas diferenças em %1$d de %2$d ficheiros.<br />Por favor, aguarde até que todos os ficheiros sejam analisados.',
 
 	'OLD_UPDATE_FILES'					=> 'Os Ficheiros de actualização não estão prontos. Os Ficheiros de actualização encontrados são do phpBB %1$s para o phpBB %2$s, mas a Última Versão do phpBB é a %3$s.',
 
 	'PACKAGE_UPDATES_TO'				=> 'O pacote actual irá actualizar para a versão',
 	'PERFORM_DATABASE_UPDATE'			=> 'A actualizar a Base de Dados',
-	'PERFORM_DATABASE_UPDATE_EXPLAIN'	=> 'Clique no botão para correr a actualização da Base de Dados. A actualização da Base de Dados tem que ser executada em separado para prevenir eventuais erros. Esta operação pode demorar alguns minutos, por favor não a interrompa. Depois de finalizada a actualização da Base de Dados, feche a janela e continue o processo de actualização.',
+	'PERFORM_DATABASE_UPDATE_EXPLAIN'	=> 'Clique no botão para correr a actualização da Base de Dados. A actualização da Base de Dados tem que ser executada em separado para prevenir eventuais erros. Esta operação pode demorar alguns minutos, por favor, não a interrompa. Depois de finalizada a actualização da Base de Dados, feche a janela e continue o processo de actualização.',
 	'PREVIOUS_VERSION'					=> 'Versão Anterior',
 	'PROGRESS'							=> 'Progresso',
 
@@ -564,7 +564,7 @@ $lang = array_merge($lang, array(
 	'UPDATING_DATA'						=> 'Actualização dos Dados',
 	'UPDATING_TO_LATEST_STABLE'			=> 'Actualização da Base de Dados para a nova versão',
 	'UPDATED_VERSION'					=> 'Versão actualizada',
-	'UPGRADE_INSTRUCTIONS'				=> 'Uma nova versão de <strong>%1$s</strong> já está disponível. Por favor leia <a href="%2$s" title="%2$s"><strong>o anúncio do lançamento</strong></a> para saber o os recursos que oferece e como actualizar.',
+	'UPGRADE_INSTRUCTIONS'				=> 'Uma nova versão de <strong>%1$s</strong> já está disponível. Por favor, leia <a href="%2$s" title="%2$s"><strong>o anúncio do lançamento</strong></a> para saber o os recursos que oferece e como actualizar.',
 	'UPLOAD_METHOD'						=> 'Método de envio',
 
 	'UPDATE_DB_SUCCESS'					=> 'A Base de Dados foi actualizada com sucesso',
@@ -573,7 +573,7 @@ $lang = array_merge($lang, array(
 
 	'VERSION_CHECK'						=> 'Verificação da versão',
 	'VERSION_CHECK_EXPLAIN'				=> 'Verifica se a sua instalação do phpBB está actualizada.',
-	'VERSION_NOT_UP_TO_DATE'			=> 'A sua instalação do phpBB não está actualizada. Por favor continue com o processo de actualização.',
+	'VERSION_NOT_UP_TO_DATE'			=> 'A sua instalação do phpBB não está actualizada. Por favor, continue com o processo de actualização.',
 	'VERSION_NOT_UP_TO_DATE_ACP'		=> 'A sua instalação do phpBB não está actualizada. <br />Abaixo está um link para o anúncio do lançamento, que contém mais informações, bem como instruções sobre a actualização.',
 	'VERSION_NOT_UP_TO_DATE_TITLE'		=> 'A sua instalação do phpBB não está actualizada.',
 	'VERSION_UP_TO_DATE'				=> 'A sua instalação do phpBB está actualizada. Embora não existam actualizações disponíveis no momento, pode continuar a fim de realizar uma verificação da validade do arquivo.',
@@ -627,7 +627,7 @@ $lang = array_merge($lang, array(
 	'SMILIES_VERY_HAPPY'				=> 'Muito Feliz',
 	'SMILIES_WINK'						=> 'Piscar o olho',
 
-	'TOPICS_TOPIC_TITLE'				=> 'Bem vindo ao phpBB3x',
+	'TOPICS_TOPIC_TITLE'				=> 'Bem-vindo ao phpBB3x',
 ));
 
 ?>

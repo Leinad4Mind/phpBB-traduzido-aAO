@@ -213,7 +213,7 @@ $lang = array_merge($lang, array(
 	'acl_a_group'		=> array('lang' => 'Pode administrar Grupos', 'cat' => 'user_group'), 
 	'acl_a_groupadd'	=> array('lang' => 'Pode criar Grupos', 'cat' => 'user_group'), 
 	'acl_a_groupdel'	=> array('lang' => 'Pode eliminar Grupos', 'cat' => 'user_group'), 
-	'acl_a_ranks'		=> array('lang' => 'Pode administrar Ranks', 'cat' => 'user_group'), 
+	'acl_a_ranks'		=> array('lang' => 'Pode administrar Classificações', 'cat' => 'user_group'), 
 	'acl_a_profile'		=> array('lang' => 'Pode administrar campos do Perfil', 'cat' => 'user_group'), 
 	'acl_a_names'		=> array('lang' => 'Pode administrar nomes Proibidos', 'cat' => 'user_group'), 
 	'acl_a_ban'			=> array('lang' => 'Pode administrar Expulsões', 'cat' => 'user_group'), 

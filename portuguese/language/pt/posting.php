@@ -124,10 +124,10 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_REPLY'			=> 'Tem que ligar-se para responder Tópicos neste Fórum.',
 
 	'MAX_FONT_SIZE_EXCEEDED'		=> 'Só pode usar fonte até %1$d.',
-	'MAX_FLASH_HEIGHT_EXCEEDED'		=> 'Só pode usar Ficheiros flash com o máximo de %1$d pixeis de altura.',
-	'MAX_FLASH_WIDTH_EXCEEDED'		=> 'Só pode usar Ficheiros flash com o máximo de %1$d pixeis de largura.',
-	'MAX_IMG_HEIGHT_EXCEEDED'		=> 'Só pode usar imagens com o máximo de %1$d pixeis de altura.',
-	'MAX_IMG_WIDTH_EXCEEDED'		=> 'Só pode usar imagens com o máximo de %1$d pixeis de largura.',
+	'MAX_FLASH_HEIGHT_EXCEEDED'		=> 'Só pode usar Ficheiros flash com o máximo de %1$d píxeis de altura.',
+	'MAX_FLASH_WIDTH_EXCEEDED'		=> 'Só pode usar Ficheiros flash com o máximo de %1$d píxeis de largura.',
+	'MAX_IMG_HEIGHT_EXCEEDED'		=> 'Só pode usar imagens com o máximo de %1$d píxeis de altura.',
+	'MAX_IMG_WIDTH_EXCEEDED'		=> 'Só pode usar imagens com o máximo de %1$d píxeis de largura.',
 
 	'MESSAGE_BODY_EXPLAIN'			=> 'Insira aqui a Mensagem. Não pode ultrapassar os  <strong>%d</strong> caracteres.',
 	'MESSAGE_DELETED'				=> 'A Mensagem foi apagada com sucesso.',
@@ -161,7 +161,7 @@ $lang = array_merge($lang, array(
 	'POSTED_ATTACHMENTS'			=> 'Anexos',
 	'POST_APPROVAL_NOTIFY'			=> 'Será avisado quando a mensagem for aprovada.',
 	'POST_CONFIRMATION'				=> 'Confirmação da Mensagem',
-	'POST_CONFIRM_EXPLAIN'			=> 'Para evitar Mensagens automáticas, o administrador deste painel exige que informe o código de confirmação. O código é mostrado na imagem abaixo. Se não consegue ver a imagem, por favor contacte o %sAdministrador%s.',
+	'POST_CONFIRM_EXPLAIN'			=> 'Para evitar Mensagens automáticas, o administrador deste painel exige que informe o código de confirmação. O código é mostrado na imagem abaixo. Se não consegue ver a imagem, por favor, contacte o %sAdministrador%s.',
 	'POST_DELETED'					=> 'A Mensagem foi apagada com sucesso.',
 	'POST_EDITED'					=> 'A Mensagem foi editada com sucesso.',
 	'POST_EDITED_MOD'				=> 'A Mensagem foi editada mas necessita de ser Aprovada por um Moderador antes de se tornar visível. Será avisado quando a sua Mensagem for aprovada.',
@@ -188,7 +188,7 @@ $lang = array_merge($lang, array(
 	'SMILIES_ARE_ON'				=> 'Emoções estão <em>Ligadas</em>',
 	'STICKY_ANNOUNCE_TIME_LIMIT'	=> 'Tempo limite do Fixo/Anúncio',
 	'STICK_TOPIC_FOR'				=> 'Fixar Tópico por',
-	'STICK_TOPIC_FOR_EXPLAIN'		=> 'Digite 0 ou deixe em branco para manter Fixo/Anúncio por tempo indeterminado. Por favor note que este número é relativo à data da colocação da mensagem.',
+	'STICK_TOPIC_FOR_EXPLAIN'		=> 'Digite 0 ou deixe em branco para manter Fixo/Anúncio por tempo indeterminado. Por favor, note que este número é relativo à data da colocação da mensagem.',
 	'STYLES_TIP'					=> 'Dica: Estilos podem ser aplicados a textos seleccionados.',
 
 	'TOO_FEW_CHARS'					=> 'A Mensagem contém poucos caracteres.',
@@ -221,7 +221,7 @@ $lang = array_merge($lang, array(
 	'VIEW_PRIVATE_MESSAGE'			=> '%sVer a Mensagem Privada enviada%s',
 
 	'WRONG_FILESIZE'				=> 'O Ficheiro é muito grande. O máximo permitido é %1d %2s.',
-	'WRONG_SIZE'					=> 'A imagem deve ter pelo menos %1$d pixeis de largura, %2$d pixeis de altura e no máximo %3$d pixeis de largura e %4$d pixeis de altura. A imagem enviada tem %5$d pixeis de largura e %6$d pixeis de altura.',
+	'WRONG_SIZE'					=> 'A imagem deve ter pelo menos %1$d píxeis de largura, %2$d píxeis de altura e no máximo %3$d píxeis de largura e %4$d píxeis de altura. A imagem enviada tem %5$d píxeis de largura e %6$d píxeis de altura.',
 ));
 
 ?>

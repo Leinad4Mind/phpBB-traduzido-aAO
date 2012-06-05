@@ -100,8 +100,8 @@ $help = array(
 		1	=> 'Há duas imagens que podem aparecer junto com um nome de <b>Utilizador</b> quando se vêem as Mensagens. Uma delas pode ser uma imagem associada à sua classificação, geralmente na forma de blocos, estrelas ou pontos, indicando a quantidade de mensagens que tenha feito ou o seu estatuto no Fórum. Outra, geralmente uma imagem maior, é conhecida como um <b>Avatar</b>, que é normalmente única ou pertencente a cada <b>Utilizador</b>. Cabe ao Administrador permitir ou não o uso de <b>Avatar</b> e definir como podem ser usados. Se não conseguir utilizar <b>Avatares</b>, contacte o Administrador do Fórum.',
 	),
 	array(
-		0	=> 'Como posso alterar o meu Rank?',
-		1	=> 'De uma forma geral, o <b>Utilizador</b> Normal não pode alterar directamente o seu Rank (os Ranks aparecem por debaixo do Nome de Utilizador nos Tópicos e no Perfil, dependendo do Template em uso). A maior parte dos Ranks existentes, indicam o Número de Mensagens enviadas ou indicam certo tipo de <b>Utilizadores</b>, ou seja, Moderadores e Administradores poderão ter um Rank Especial. Por Favor, não abuse do Fórum enviando Mensagens desnecessárias apenas para aumentar o Nível do seu Rank, pois os Administradores ou Moderadores podem tomar alguma atitude contra si, se considerarem que está a ter atitudes abusivas.',
+		0	=> 'Como posso alterar a minha Classificação?',
+		1	=> 'De uma forma geral, o <b>Utilizador</b> Normal não pode alterar directamente a sua Classificação (as Classificação aparecem por debaixo do Nome de Utilizador nos Tópicos e no Perfil, dependendo do Template em uso). A maior parte das Classificação existentes, indicam o Número de Mensagens enviadas ou indicam certo tipo de <b>Utilizadores</b>, ou seja, Moderadores e Administradores poderão ter uma Classificação Especial. Por Favor, não abuse do Fórum enviando Mensagens desnecessárias apenas para aumentar o Nível da sua Classificação, pois os Administradores ou Moderadores podem tomar alguma atitude contra si, se considerarem que está a ter atitudes abusivas.',
 	),
 	array(
 		0	=> 'Quando clico no email de um <b>Utilizador</b>, pede-me para ligar no fórum?!',
@@ -242,7 +242,7 @@ $help = array(
 	),
 	array(
 		0	=> 'O que é um Grupo Padrão?',
-		1	=> 'Se é <b>Utilizador</b> de mais de um Grupo de <b>Utilizadores</b>, será determinado qual Cor e Rank lhe serão atribuídos por padrão. O <b>Administrador</b> poderá lhe conceder a opção de escolha do seu Grupo Padrão pelo Painel de <b>Utilizadores</b>.',
+		1	=> 'Se é <b>Utilizador</b> de mais de um Grupo de <b>Utilizadores</b>, será determinado qual Cor e Classificação lhe serão atribuídos por padrão. O <b>Administrador</b> poderá lhe conceder a opção de escolha do seu Grupo Padrão pelo Painel de <b>Utilizadores</b>.',
 	),
 	array(
 		0	=> 'O que é a Equipa de Responsáveis do Fórum?',

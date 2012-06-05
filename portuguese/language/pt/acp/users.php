@@ -78,7 +78,7 @@ $lang = array_merge($lang, array(
 
 	'MOVE_POSTS_EXPLAIN'			=> 'Seleccione o Fórum para o onde deseja mover todas as Mensagens que este Utilizador fez.',
 
-	'NO_SPECIAL_RANK'				=> 'Sem atribuição de colocação (rank) especial',
+	'NO_SPECIAL_RANK'				=> 'Sem atribuição de classificação especial',
 	'NO_WARNINGS'					=> 'Nenhum Aviso.',
 	'NOT_MANAGE_FOUNDER'			=> 'Tentou gerir um Utilizador Fundador do Fórum. Apenas Fundadores podem gerir outros Fundadores.',
 
@@ -134,8 +134,8 @@ $lang = array_merge($lang, array(
 	'USER_PREFS_UPDATED'			=> 'As preferências do Utilizador foram actualizadas.',
 	'USER_PROFILE'					=> 'Perfil do Utilizador',
 	'USER_PROFILE_UPDATED'			=> 'O Perfil do Utilizador foi actualizado com sucesso.',
-	'USER_RANK'						=> 'Colocação (rank) do Utilizador',
-	'USER_RANK_UPDATED'				=> 'Colocação (rank) do Utilizador actualizada.',
+	'USER_RANK'						=> 'Classificação do Utilizador',
+	'USER_RANK_UPDATED'				=> 'Classificação do Utilizador actualizada.',
 	'USER_SIG_UPDATED'				=> 'A Assinatura do Utilizador foi actualizada com sucesso.',
 	'USER_WARNING_LOG_DELETED'		=> 'Informação não disponível. Possivelmente a entrada de registo foi apagada.',
 	'USER_TOOLS'					=> 'Ferramentas Básicas',

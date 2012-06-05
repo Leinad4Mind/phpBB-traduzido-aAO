@@ -212,25 +212,25 @@ $lang = array_merge($lang, array(
 )); 
 
 // Ranks 
-$lang = array_merge($lang, array( 
-	'ACP_RANKS_EXPLAIN'				=> 'Aqui poderá adicionar, editar, visualizar e apagar ranks. Pode também criar ranks Personalizados que podem ser aplicados a um Utilizador nas Ferramentas de Administração de Utilizadores.',
-	'ADD_RANK'						=> 'Adicionar novo Rank',
+$lang = array_merge($lang, array(
+    'ACP_RANKS_EXPLAIN'                => 'Aqui poderá adicionar, editar, visualizar e apagar classificações. Pode também criar classificações personalizadas que podem ser aplicados a um Utilizador nas Ferramentas de Administração de Utilizadores.',
+    'ADD_RANK'                        => 'Adicionar nova classificação',
 
-	'MUST_SELECT_RANK'				=> 'Tem de seleccionar um Rank.',
+    'MUST_SELECT_RANK'                => 'Tem de seleccionar uma classificação.',
 
-	'NO_ASSIGNED_RANK'				=> 'Nenhum Rank Especial existente.',
-	'NO_RANK_TITLE'					=> 'Te, que escrever o Título do Rank.',
-	'NO_UPDATE_RANKS'				=> 'O Rank foi apagado com sucesso. De qualquer modo, os registos que utilizavam este rank não foram actualizados. Tem que actualizar os ranks nestes registos manualmente.',
+    'NO_ASSIGNED_RANK'                => 'Nenhuma Classificação Especial existente.',
+    'NO_RANK_TITLE'                    => 'Tem que escrever o Título da Classificação.',
+    'NO_UPDATE_RANKS'                => 'A classificação foi apagada com sucesso. De qualquer modo, os registos que utilizavam esta classificação não foram atualizados. Tem que atualizar as classificações nestes registos manualmente.',
 
-	'RANK_ADDED'					=> 'O Rank foi adicionado com sucesso.',
-	'RANK_IMAGE'					=> 'Imagem do Rank',
-	'RANK_IMAGE_EXPLAIN'			=> 'Imagem do Rank (relativo à pasta raíz do phpBB).',
-	'RANK_IMAGE_IN_USE'		=> '(em uso)',
-	'RANK_MINIMUM'					=> 'Número Mínimo de Mensagens',
-	'RANK_REMOVED'					=> 'O Rank foi apagado com sucesso.',
-	'RANK_SPECIAL'					=> 'Escreva um Rank Especial',
-	'RANK_TITLE'					=> 'Título do Rank',
-	'RANK_UPDATED'					=> 'O Rank foi actualizado com sucesso.',
+    'RANK_ADDED'                    => 'A classificação foi adicionada com sucesso.',
+    'RANK_IMAGE'                    => 'Imagem da Classificação',
+    'RANK_IMAGE_EXPLAIN'            => 'Imagem da Classificação (relativo à pasta raiz do phpBB).',
+    'RANK_IMAGE_IN_USE'        => '(em uso)',
+    'RANK_MINIMUM'                    => 'Número Mínimo de Mensagens',
+    'RANK_REMOVED'                    => 'A classificação foi apagada com sucesso.',
+    'RANK_SPECIAL'                    => 'Escreva uma Classificação Especial',
+    'RANK_TITLE'                    => 'Título da Classificação',
+    'RANK_UPDATED'                    => 'A Classificação foi actualizada com sucesso.',
 )); 
 
 // Disallow Usernames 

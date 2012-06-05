@@ -128,7 +128,7 @@ $lang = array_merge($lang, array(
 	'ATTACHMENTS_DELETED'				=> 'Anexos Apagados.',
 	'ATTACHMENT_DELETED'				=> 'Anexo Apagado.',
 	'AVATAR_CATEGORY'					=> 'Categoria',
-	'AVATAR_EXPLAIN'					=> 'Medidas máximas permitidas:<br /> <b>Largura:</b> %1$d pixeis; <b>Altura:</b> %2$d pixeis; <b>Tamanho:</b> %3$dkB.',
+	'AVATAR_EXPLAIN'					=> 'Medidas máximas permitidas:<br /> <b>Largura:</b> %1$d píxeis; <b>Altura:</b> %2$d píxeis; <b>Tamanho:</b> %3$dkB.',
 	'AVATAR_FEATURES_DISABLED'			=> 'A função de Avatar está desactivada.',
 	'AVATAR_GALLERY'					=> 'Galeria Local',
 	'AVATAR_GENERAL_UPLOAD_ERROR'		=> 'Não foi possível enviar o Avatar para %s.',
@@ -164,7 +164,7 @@ $lang = array_merge($lang, array(
 	'CONFIRM_CHANGES'					=> 'Confirmar Alterações',
 	'CONFIRM_EMAIL'						=> 'Confirme o endereço de email',
 	'CONFIRM_EMAIL_EXPLAIN'				=> 'Só se alterar o seu endereço de email.',
-	'CONFIRM_EXPLAIN'					=> 'Para prevenir Registos automáticos de "espiões" é necessário introduzir um código de confirmação. O código é exibido na imagem que deverá ver em baixo. Se tem alguma deficiência visual, e não pode ler o código, por favor contacte o %sAdministrador do Fórum%s.',
+	'CONFIRM_EXPLAIN'					=> 'Para prevenir Registos automáticos de "espiões" é necessário introduzir um código de confirmação. O código é exibido na imagem que deverá ver em baixo. Se tem alguma deficiência visual, e não pode ler o código, por favor, contacte o %sAdministrador do Fórum%s.',
 	'VC_REFRESH'						=> 'Alterar Código de Confirmação',
 	'VC_REFRESH_EXPLAIN'				=> 'Se não consegue ler o código pode pedir um novo clicando no botão.',
 	
@@ -500,7 +500,7 @@ $lang = array_merge($lang, array(
 	'UCP_REGISTER_DISABLE'				=> 'Não é possível criar novos Registos.',
 	'UCP_REMIND'						=> 'Enviar Senha',
 	'UCP_RESEND'						=> 'Enviar email de Activação',
-	'UCP_WELCOME'						=> 'Bem vindo ao Painel de Controlo do Utilizador.<br /> Aqui pode ver e actualizar o seu Perfil, as suas Preferências, observar Fóruns e Tópicos.<br /> Pode enviar Mensagens a outros <b>Utilizadores</b> (<i>se permitido</i>). Verifique se leu todos os anúncios.',
+	'UCP_WELCOME'						=> 'Bem-vindo ao Painel de Controlo do Utilizador.<br /> Aqui pode ver e actualizar o seu Perfil, as suas Preferências, observar Fóruns e Tópicos.<br /> Pode enviar Mensagens a outros <b>Utilizadores</b> (<i>se permitido</i>). Verifique se leu todos os anúncios.',
 	'UCP_YIM'							=> 'Yahoo! Messenger',
 	'UCP_ZEBRA'							=> 'Amigos e Inimigos',
 	'UCP_ZEBRA_FOES'					=> 'Inimigos',
@@ -585,7 +585,7 @@ $lang = array_merge($lang, array(
 	),
 
 
-	'GROUPS_EXPLAIN'					=> 'Os <b>Grupos de Utilizadores</b> permitem melhorar a gestão dos membros do Fórum. Logo de inicio será colocado num grupo especifico, que será o seu <b>Grupo Padrão</b>. Este grupo define como poderá aparecer aos outros utilizadores, por exemplo a cor do seu Nome, Avatar, Rank, etc. Dependendo de como o administrador o definiu, poderá ser-lhe permitido alterar o seu grupo Padrão. Poderá também ser mudado de Grupo ou ser-lhe permitido juntar-se a outros Grupos. Alguns grupos poderão dar-lhe permissões adicionais para ver outros conteúdos ou ter capacidades acrescidas.',
+	'GROUPS_EXPLAIN'					=> 'Os <b>Grupos de Utilizadores</b> permitem melhorar a gestão dos membros do Fórum. Logo de inicio será colocado num grupo especifico, que será o seu <b>Grupo Padrão</b>. Este grupo define como poderá aparecer aos outros utilizadores, por exemplo a cor do seu Nome, Avatar, Classificação, etc. Dependendo de como o administrador o definiu, poderá ser-lhe permitido alterar o seu grupo Padrão. Poderá também ser mudado de Grupo ou ser-lhe permitido juntar-se a outros Grupos. Alguns grupos poderão dar-lhe permissões adicionais para ver outros conteúdos ou ter capacidades acrescidas.',
 	'GROUP_LEADER'						=> 'Liderança',
 	'GROUP_MEMBER'						=> 'Inscrito',
 	'GROUP_PENDING'						=> 'Inscrição pendente',

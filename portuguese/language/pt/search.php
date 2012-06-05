@@ -57,7 +57,7 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_UNREADSEARCH'=> 'É necessário que esteja registado e autenticado para ver as suas mensagens lidas.',
 	'LOGIN_EXPLAIN_NEWPOSTS'	=> 'É necessário que esteja registado e autenticado para ver novas mensagens desde sua última visita.',
 	
-	'MAX_NUM_SEARCH_KEYWORDS_REFINE'	=> 'Introduziu demasiadas palavras para pesquisar. Por favor não introduza mais do que %1$d palavras.',
+	'MAX_NUM_SEARCH_KEYWORDS_REFINE'	=> 'Introduziu demasiadas palavras para pesquisar. Por favor, não introduza mais do que %1$d palavras.',
 
 	'NO_KEYWORDS'				=> 'Tem que especificar pelo menos uma palavra para pesquisa. Cada palavra tem que conter no mínimo %d caracteres e não pode conter mais do que %d caracteres.',
 	'NO_RECENT_SEARCHES'		=> 'Sem procuras recentes',

@@ -107,11 +107,11 @@ $lang = array_merge($lang, array(
 	'AVATAR_STORAGE_PATH'			=> 'Directoria de arquivo dos Avatares',
 	'AVATAR_STORAGE_PATH_EXPLAIN'	=> 'Directoria dependendo da raiz do phpBB para Upload de Avatares  Exemplo: <b>\images\avatars\upload</b>.',
 	'MAX_AVATAR_SIZE'				=> 'Dimensões Máximas do Avatar',
-	'MAX_AVATAR_SIZE_EXPLAIN'		=> '(Altura x Largura em pixeis).',
+	'MAX_AVATAR_SIZE_EXPLAIN'		=> '(Altura x Largura em píxeis).',
 	'MAX_FILESIZE'					=> 'Tamanho Máximo do Ficheiro Avatar',
 	'MAX_FILESIZE_EXPLAIN'			=> 'Dos Ficheiros de Avatar enviados. Se este valor for 0, o tamanho do ficheiro enviado fica sujeito às permissões do PHP.',
 	'MIN_AVATAR_SIZE'				=> 'Dimensões Mínimas do Avatar',
-	'MIN_AVATAR_SIZE_EXPLAIN'		=> '(Altura x Largura em pixeis).',
+	'MIN_AVATAR_SIZE_EXPLAIN'		=> '(Altura x Largura em píxeis).',
 )); 
 
 // Message Settings 
@@ -213,7 +213,7 @@ $lang = array_merge($lang, array(
 	'NEW_MEMBER_POST_LIMIT'				=> 'Mensagens dos Utilizadores Registados Recentemente',
 	'NEW_MEMBER_POST_LIMIT_EXPLAIN'		=> 'Os novos utilizadores entram para o Grupo <em>Utilizadores Registados Recentemente</em> até atingirem este número de mensagens. Pode usar este Grupo para impedir que usem as mensagens privadas ou para rever as suas mensagens. <strong>0 para desactivar.</strong>',
 	'NEW_MEMBER_GROUP_DEFAULT'			=> 'Grupo de Utilizadores Registados Recentemente',
-	'NEW_MEMBER_GROUP_DEFAULT_EXPLAIN'	=> 'Se definido como <strong>Sim</strong> e especificado um limite de mensagens, o novo utilizador será colocado no Grupo <em>Utilizadores Registados Recentemente</em>, sendo esse o seu Grupo Padrão. Isso pode ser útil se deseja atribuir um Grupo Padrão, Rank e/ou Avatar a estes utilizadores.',
+	'NEW_MEMBER_GROUP_DEFAULT_EXPLAIN'	=> 'Se definido como <strong>Sim</strong> e especificado um limite de mensagens, o novo utilizador será colocado no Grupo <em>Utilizadores Registados Recentemente</em>, sendo esse o seu Grupo Padrão. Isso pode ser útil se deseja atribuir um Grupo Padrão, Classificação e/ou Avatar a estes utilizadores.',
 
 	'ACC_ADMIN'							=> 'Administrador',
 	'ACC_DISABLE'						=> 'Desactivar Registos',
@@ -419,7 +419,7 @@ $lang = array_merge($lang, array(
 	'ICONS_PATH'							=> 'Directoria para Ficheiro de Ícones',
 	'ICONS_PATH_EXPLAIN'					=> 'Directoria sob o directoria raiz do phpBB. Exemplo: <b>images/ícons</b>.',
 	'PATH_SETTINGS'							=> 'Configurações de Pastas',
-	'RANKS_PATH'							=> 'Directoria para Ficheiro de Imagens de Rank',
+	'RANKS_PATH'							=> 'Directoria para Ficheiro de Imagens de Classificação',
 	'RANKS_PATH_EXPLAIN'					=> 'Directoria sob a directoria raiz do phpBB. Exemplo: <b> images/ranks.</b>',
 	'SCRIPT_PATH'							=> 'Directoria do script',
 	'SCRIPT_PATH_EXPLAIN'					=> 'Directoria onde o phpBB está instalado com relação ao Domínio. Exemplo: <b>phpBB3</b>.',
