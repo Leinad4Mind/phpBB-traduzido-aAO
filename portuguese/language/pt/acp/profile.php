@@ -133,6 +133,8 @@ $lang = array_merge($lang, array(
 
 	'SAVE'							=> 'Guardar',
 	'SECOND_OPTION'					=> 'Segunda Opção',
+	'SHOW_NOVALUE_FIELD'			=> 'Mostrar campo se nenhum valor for seleccionado',
+	'SHOW_NOVALUE_FIELD_EXPLAIN'		=> 'Define se deve ser mostrado o campo do perfil, caso nenhum valor nos campos opcionais ou obrigatórios for seleccionado.',
 	'STEP_1_EXPLAIN_CREATE'			=> 'Aqui pode escrever os primeiros parâmetros básicos de seu novo Campo no Perfil. Estas informações são necessárias para a segunda etapa, onde poderá inserir as opções restantes e prever o seu Campo mais adiante.',
 	'STEP_1_EXPLAIN_EDIT'			=> 'Aqui pode alterar os parâmetros básicos de seu campo no Perfil. As opções relevantes são recalculadas com a segunda etapa, onde poderá prever e testar as suas novas configurações.',
 	'STEP_1_TITLE_CREATE'			=> 'Adicionar Campo de Perfil',

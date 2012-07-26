@@ -60,7 +60,7 @@ $lang = array_merge($lang, array(
 
 	'DELETE_POSTS'					=> 'Apagar as Mensagens',
 	'DELETE_USER'					=> 'Apagar Utilizador',
-	'DELETE_USER_EXPLAIN'			=> '<b>Atenção:</b> Esta  operação é irreversível. Não é possível recuperar um Utilizador depois de apagado.',
+	'DELETE_USER_EXPLAIN'			=> '<b>Atenção:</b> Esta  operação é irreversível. Não é possível recuperar utilizadores depois de apagados. As Mensagens Privadas enviadas por este utilizador serão apagadas e deixarão de estar disponíveis nos seus destinatários.',
 
 	'FORCE_REACTIVATION_SUCCESS'	=> 'A Reactivação foi forçada com sucesso.',
 	'FOUNDER'						=> 'Fundador',

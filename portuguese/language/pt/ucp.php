@@ -427,6 +427,7 @@ $lang = array_merge($lang, array(
 	'RULE_ADDED'						=> 'A Regra foi adicionada com sucesso.',
 	'RULE_ALREADY_DEFINED'				=> 'Esta Regra estava previamente definida.',
 	'RULE_DELETED'						=> 'A Regra foi apagada com sucesso.',
+	'RULE_LIMIT_REACHED'			=> 'Não pode adicionar mais regras para as mensagens privadas. Atingiu o número máximo.',
 	'RULE_NOT_DEFINED'					=> 'Regra não especificada correctamente.',
 	'RULE_REMOVED_MESSAGE'				=> 'Uma Mensagem Privada foi apagada pelos processos de filtragem.',
 	'RULE_REMOVED_MESSAGES'				=> '%d Mensagens Privadas foram apagadas pelos processos de filtragem.',
