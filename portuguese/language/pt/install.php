@@ -477,7 +477,7 @@ $lang = array_merge($lang, array(
 	'NO_VISIBLE_CHANGES'				=> 'Sem alterações visíveis',
 	'NOTICE'							=> 'Aviso',
 	'NUM_CONFLICTS'						=> 'Número de conflitos',
-	'NUMBER_OF_FILES_COLLECTED'			=> 'Actualmente foram detectadas diferenças em %1$d de %2$d ficheiros.<br />Por favor, aguarde até que todos os ficheiros sejam analisados.',
+	'NUMBER_OF_FILES_COLLECTED'			=> 'Analisados %1$d de %2$d ficheiros.<br />Por favor, aguarde.',
 
 	'OLD_UPDATE_FILES'					=> 'Os Ficheiros de actualização não estão prontos. Os Ficheiros de actualização encontrados são do phpBB %1$s para o phpBB %2$s, mas a Última Versão do phpBB é a %3$s.',
 
